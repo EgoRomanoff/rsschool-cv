@@ -1,15 +1,17 @@
-<div align="center">
-  <h1>Egor Romanov (Junior Frontend Dev) CV</h1>
-  ![Photo](https://user-images.githubusercontent.com/67374276/188909150-b45ca855-aa01-4be3-a13d-3a2e1d668339.jpg)
-</div>
+ <h1 align="center">Egor Romanov (Junior Frontend Dev) CV</h1>
 
 ## Personal Information
+<img align="left" src="https://user-images.githubusercontent.com/67374276/188909150-b45ca855-aa01-4be3-a13d-3a2e1d668339.jpg" alt="Egor Romanov's Photo" width="150px">
+
 *Name*: **Egor Romanov**  
 *Date of birth:* **24.04.1997**  
 ### *Contacts:*  
-* ***Telegram***: https://t.me/EgoRomanoff  
-* ***E-mail***: egoromanoff@mail.ru  
-* ***Discord***: Egor Romanov (@EgoRomanoff)
+***Telegram***: https://t.me/EgoRomanoff  
+***E-mail***: egoromanoff@mail.ru  
+***Discord***: Egor Romanov (@EgoRomanoff)
+
+
+---
 
 ## About myself
 I'm Junior Frontend Dev.  
