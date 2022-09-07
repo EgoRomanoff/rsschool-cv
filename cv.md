@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Egor Romanov (Junior Frontend Dev) CV</h1>
+  ![Photo](https://user-images.githubusercontent.com/67374276/188909150-b45ca855-aa01-4be3-a13d-3a2e1d668339.jpg)
 </div>
 
 ## Personal Information
